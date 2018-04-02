@@ -1,0 +1,23 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AnirbanKundu/graphql-server.git"
+  },
+  "homepage": "http://anirbankundu.com",
+  "dependencies": {
+    "dataloader": "^1.3.0",
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.11",
+    "graphiql": "^0.11.11",
+    "graphql": "^0.11.3",
+    "node-fetch": "^2.1.2",
+    "xml2js": "^0.4.19"
+  }
+}
